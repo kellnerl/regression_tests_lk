@@ -22,7 +22,7 @@ Basic test case
   #  Go to  https://adisspr.tst.ats/pmd/dis
     Click  \#app-list-0
   #  Click Button  name:Přihlásit se E-identitou.
-    Sleep  5s 
+    Sleep  10s 
     Close Browser
 
 *** Keywords ***    
